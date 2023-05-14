@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+.pill{
+    color:antiquewhite;
+    font-size: 23px;
+    margin-right: 100px;
+    width: 18%;
+    height: 60px;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    padding-top: 15px;
+    display:inline-block;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+.c1{
+    border: 4px solid #8D4BE0; 
+}
+.c1:hover{
+    background-color: #9778bc;
+}
+
+.c2{
+    border: 4px solid #FF5E00;
+}
+.c2:hover{
+    background-color: #c96328;
+}
+
+.c3{
+    border: 4px solid #029782;
+}
+.c3:hover{
+    background-color: #097163;
+}
+
+.c4{
+    border: 4px solid #FF3131;
+}
+.c4:hover{
+    background-color: #b11616;
+}
+.c5{
+    border: 4px solid #CCFF00;
+}
+.c5:hover{
+    background-color: #85a30e;
+}
+
+.c6{
+    border: 4px solid #FAB23F;
+}
+.c6:hover{
+    background-color: #b87f25;
+}
+
+.c7{
+    border: 4px solid #34FE4F;
+}
+.c7:hover{
+    background-color: #1e952e;
+}
+
+.c8{
+    border: 4px solid #6F9CFF;
+}
+.c8:hover{
+    background-color: #4361a3;
+}
+
+.c9{
+    border: 4px solid #FF1F4F;
+}
+.c9:hover{
+    background-color: #9b1734;
+}
+
+.cf{
+    padding-top: 156px;  
+}
+
+.all{
+    margin-left: 18.5%;
+}
+
+.slink{
+    font-size: 23px;
+    font-family: 'Bruno Ace SC', cursive;
+    color:antiquewhite;
+}
+
+.side{
+    height: 350px;
+    width: 10px;
+    position: absolute;
+    left:13%;
+    top:27%;
+}
+
+.side2{
+    left:85%
+}

@@ -1,0 +1,149 @@
+.main{
+    color:whitesmoke;
+    list-style: none;
+    font-size: 20px;
+}
+
+.adhead{
+    font-family: 'Bruno Ace', cursive;
+    font-size: 28px;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    background: linear-gradient(#dee4e6,#25b8e1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.adreg{
+    color:whitesmoke;
+    font-size:20px;
+    border: 1px solid;
+    width:20rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'Caveat', cursive;
+    background-color: rgb(40, 44, 44,0.4);
+}
+
+.backhome{
+    height:30px;
+    position: absolute;
+    top:85%;
+    left:49%;
+    cursor: pointer;
+}
+
+.extra{
+    width:10px;
+    height:450px;
+    position: absolute;
+    left:32%;
+    top:12%
+}
+
+.adrul{
+    position: absolute;
+    height:20rem;
+    left:70%;
+    transform: rotate(15deg);
+}
+
+.adrul2{
+    left:4%;
+    transform: rotate(-15deg);
+}
+
+.table1{
+    font-family: 'Caveat', cursive;
+    margin-top: 3rem;
+    border:1px solid ;
+    padding: 3rem;
+    background-color: rgb(40, 44, 44,0.4);
+    font-size: 26px;
+}
+
+.unm{
+    font-family: 'Caveat', cursive;
+    color: whitesmoke;
+    font-size: 26px;
+}
+
+.editbtn{
+    margin-right: 1rem;
+    background-image: linear-gradient(rgb(100, 134, 141), white);
+    cursor: pointer;
+    
+}
+
+.dltbtn{
+    background-image: linear-gradient(rgb(199, 69, 57), white);
+    cursor: pointer;
+}
+
+.operation{
+    padding-left: 16px;
+}
+
+.details{
+    height:15rem;
+    width: 22rem;
+    font-size: 28px;
+    font-family: 'Caveat', cursive;
+    padding: 7px;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    background-color: rgb(40, 44, 44,0.4);
+    margin-top: 13%;
+    margin-left: 36.5%;
+}
+
+.detailstut{
+    height:19rem;
+}
+
+.title{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(104, 163, 190);
+}
+
+.updhead{
+    margin-top: 3rem;
+}
+
+.updet{
+    margin-top: 2%;
+}
+
+.upinp{
+    width:12rem;
+    height: 1.4rem;
+    border-radius: 8px;
+    background-color: rgb(224, 240, 241);
+}
+
+.upinp2{
+    margin-bottom: 7px;
+    margin-left: 1rem;
+}
+
+.updettut{
+    height:17.5rem;
+    width: 30rem;
+    font-size: 28px;
+    font-family: 'Caveat', cursive;
+    padding: 7px;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    background-color: rgb(40, 44, 44,0.4);
+    margin-top: 2%;
+    margin-left: 31.5%;
+    padding-top: 2rem;
+}
+
+.upbtn{
+    padding:3px;
+    margin-top: 10px;
+    background-image:  linear-gradient(rgb(125, 176, 186), white);
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.obox{
+    height:400px;
+    width:650px;
+    margin-left: 25%;
+    margin-top: 65px;
+    margin-bottom: 90px;
+    color:white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border:4px solid;
+    border-image: linear-gradient(#FF1F4F,#9778bc) 30;
+    background-color: black;
+}
+
+.inpbox{
+    border-color: rgb(103,124, 124);
+    height:2.5vmax;
+    width: 225px;
+    border-radius: 10px;
+    background-color: rgb(210, 216, 226);
+    margin-bottom: 8px;
+    margin-right: 20px;
+}
+
+.sign{
+    margin-top: 5px;
+}
